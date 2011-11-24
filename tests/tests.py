@@ -1,7 +1,3 @@
-"""
-Tests for the basement.memoize module.
-"""
-
 # Python standard library imports:
 import random
 import unittest
